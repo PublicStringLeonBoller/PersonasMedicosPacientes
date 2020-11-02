@@ -1,0 +1,20 @@
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\bin\Debug\PersonasMedicosPacientes.exe.config
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\bin\Debug\PersonasMedicosPacientes.exe
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\bin\Debug\PersonasMedicosPacientes.pdb
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.Form1.resources
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.Properties.Resources.resources
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.exe
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.pdb
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\bin\Debug\PersonasMedicosPacientes.exe.config
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\bin\Debug\PersonasMedicosPacientes.exe
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\bin\Debug\PersonasMedicosPacientes.pdb
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.Form1.resources
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.Properties.Resources.resources
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.exe
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\PersonasMedicosPacientes\obj\Debug\PersonasMedicosPacientes.pdb
