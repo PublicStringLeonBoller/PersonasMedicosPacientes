@@ -1,0 +1,2 @@
+# PersonasMedicosPacientes
+Programa en el que uso herencia y composicion en el cual la clase "Persona" es la clase madre, la clase "Medicos" es la hija y  la clase "Pacientes" es la clase en composicion (un medico es una persona y tiene un cliente), se pueden observar el ingreso de registros y todo tipo de calculos (promedios, porcentajes, cantidades de un dato en especifico, cantidades totales).)
